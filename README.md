@@ -23,7 +23,7 @@ I’m the founder of **[SophNex Solutions](#)** — a digital innovation company
 |-----------|-------|
 | **Frontend** | SvelteKit • Tailwind CSS • HTML • JavaScript • TypeScript |
 | **Backend** | Node.js • Express • FastAPI • PocketBase |
-| **Database** | PostgreSQL • MySQL • SQLite |
+| **Database** | PostgreSQL • MySQL • SQLite  • MongoDB |
 | **Other Tools** | Socket.io • REST APIs • WordPress • Git & GitHub |
 | **Design & Animation** | Framer Motion • GSAP • Figma |
 
