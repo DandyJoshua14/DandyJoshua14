@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Web Developer | Founder | Content Creator**
 
-I'm a passionate developer from **Calabar, Nigeria**, who loves building **scalable digital experiences**, teaching tech, and creating content that inspires.  
+I'm a passionate developer, who loves building **scalable digital experiences**, teaching tech, and creating content that inspires.  
 I’m the founder of **[SophNex Solutions](#)** — a digital innovation company that bridges creativity and technology — and **SophNex Academy**, where we help people start their tech journeys.
 
 ---
@@ -47,8 +47,7 @@ I’m the founder of **[SophNex Solutions](#)** — a digital innovation company
 
 - 💡 Built internal systems that automate client management for SophNex  
 - 🧑‍🏫 Trained 100+ beginners through SophNex Academy’s community programs  
-- 🌐 Created multiple responsive web apps using SvelteKit + Node.js  
-- ⚙️ Advocating for open source and developer communities in Calabar  
+- 🌐 Created multiple responsive web apps using SvelteKit + Node.js 
 
 ---
 
