@@ -9,7 +9,7 @@ I’m the founder of **[SophNex Solutions](#)** — a digital innovation company
 
 ### 🧠 About Me
 
-- 💻 I build web apps using **SvelteKit**, **Node.js**, **Tailwind CSS**, and **TypeScript**  
+- 💻 I build web apps using **SvelteKit**, **React**, **Nextjs**, **Python(FastAPI)**, **Node.js**, **Tailwind CSS**, and **TypeScript**  
 - ⚡ I love clean design, smooth animations, and fast, user-focused products  
 - 🎥 I run a YouTube channel called **[The Developer’s Eye](#)** — exploring tech, creativity, and innovation  
 - 🧩 I enjoy blending **business strategy** with **software engineering**  
